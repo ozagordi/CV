@@ -94,10 +94,10 @@ Publications
 2. **Osvaldo Zagordi**, Martin Däumer, Christian Beisel, Niko Beerenwinkel  
    Read length versus Depth of Coverage for Viral Quasispecies Reconstruction  
    *PLoS ONE* 7(10): e47046.
-    [doi:10.1371/journal.pone.0047046](http://dx.doi.org/10.1371/journal.pone.0047046) (2012)
+   [doi:10.1371/journal.pone.0047046](http://dx.doi.org/10.1371/journal.pone.0047046) (2012)
 
 3. **Osvaldo Zagordi**, Armin Töpfer, Sandhya
-   Prabhakaran, Volker Roth, Eran Halperin, Niko Beerenwinkel  
+    Prabhakaran, Volker Roth, Eran Halperin, Niko Beerenwinkel  
     Probabilistic Inference of Viral Quasispecies Subject to Recombination
     *Journal of Computational Biology* [doi:10.1089/cmb.2012.0232](http://dx.doi.org/10.1089/cmb.2012.0232)
 20(2): 113-123 (2012)  
@@ -133,10 +133,10 @@ Publications
 8. Fahad Saeed, Ashfaq Khokhar, **Osvaldo Zagordi**, Niko Beerenwinkel  
     Multiple sequence alignment system for pyrosequencing reads  
     *Proceedings of the 1 _st_ Bioinformatics and Computational
-    Biology (BICoB 2009) conference LNBI* [vol. 5462, pp. 362-375](http://10.1007/978-3-642-00727-9), (2009)
+    Biology (BICoB 2009) conference LNBI* [vol. 5462, pp. 362-375](http://10.1007/978-3-642-00727-9) (2009)
 
 9. **Osvaldo Zagordi**, Alessandro Michelangeli  
-    1D periodic potentials with gaps vanishing at $k-0$  
+    1D periodic potentials with gaps vanishing at _k=0_  
     *Memoirs on Differential Equations and Mathematical Physics* vol. 47 pp. 133-158 (2009)
 
 10. Michele Leone, Andrea Pagnani, Giorgio Parisi, **Osvaldo Zagordi**  
@@ -180,13 +180,13 @@ Talks
 -----
 
 - Basel Postdoc Network retreat 2012, August 15th, Leysin, Switzerland  
-- SIB Scientific days 2011, January 31 _st_, Biel/Bienne, Switzerland
-- Advances in Statistical Modeling of High Dimensional Data, September 27_th_, Munich, Germany
-- RECOMB 2009, May 18 _th_, Tucson (Arizona), USA
+- SIB Scientific days 2011, January 31, Biel/Bienne, Switzerland
+- Advances in Statistical Modeling of High Dimensional Data, September 27, Munich, Germany
+- RECOMB 2009, May 18, Tucson (Arizona), USA
 - Quasispecies: past, present and future 30 _th_ anniversary,
-  VIII Jornada de Virologia, November 17 _th_, Barcelona,
+  VIII Jornada de Virologia, November 17, Barcelona,
   Spain
-- Biology, Computation and Information 2008, September 9 _th_, Trieste, Italy
+- Biology, Computation and Information 2008, September 9, Trieste, Italy
 
 * * * * *
 
