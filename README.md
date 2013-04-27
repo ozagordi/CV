@@ -101,7 +101,7 @@ Publications
     Probabilistic Inference of Viral Quasispecies Subject to Recombination
     *Journal of Computational Biology* [doi:10.1089/cmb.2012.0232](http://dx.doi.org/10.1089/cmb.2012.0232)
 20(2): 113-123 (2012)  
-    also in: *Proceedings of the 16_th_ Annual International
+    also in: *Proceedings of the 16 _th_ Annual International
     Conference on Research in Computational Molecular Biology RECOMB 2012
     Lecture Notes in Computer Science* vol. 7262 pp. 342-354 (2012)
 
@@ -111,7 +111,7 @@ Publications
 1(5), 413-418 (2011)
 
 5. **Osvaldo Zagordi**, Arnab Bhattacharya, Nicholas Eriksson, Niko
-Beerenwinkel  
+    Beerenwinkel  
     ShoRAH: estimating the genetic diversity of a mixed sample from
     next-generation sequencing data  
     *BMC Bioinformatics* [12:119](http://dx.doi.org/10.1186/1471-2105-12-119) (2011),
@@ -126,13 +126,13 @@ Beerenwinkel
     Deep sequencing of a genetically heterogeneous sample: local haplotype
     reconstruction and read error correction  
     *Journal of Computational Biology* [vol. 17 (3) pp. 417-28](http://dx.doi.org/10.1089/cmb.2009.0164) (2010)  
-    also in: *Proceedings of the 13_th_ Annual International
+    also in: *Proceedings of the 13 _th_ Annual International
     Conference on Research in Computational Molecular Biology RECOMB 2009
     Lecture Notes in Computer Science* vol. 5541 pp. 345-358 (2009)
 
 8. Fahad Saeed, Ashfaq Khokhar, **Osvaldo Zagordi**, Niko Beerenwinkel  
     Multiple sequence alignment system for pyrosequencing reads  
-    *Proceedings of the 1_st_ Bioinformatics and Computational
+    *Proceedings of the 1 _st_ Bioinformatics and Computational
     Biology (BICoB 2009) conference LNBI* [vol. 5462, pp. 362-375](http://10.1007/978-3-642-00727-9), (2009)
 
 9. **Osvaldo Zagordi**, Alessandro Michelangeli  
@@ -164,7 +164,7 @@ Conference proceedings
 3. **Osvaldo Zagordi**, Lukas Geyrhofer, Volker Roth, Niko Beerenwinkel  
     Deep sequencing of a genetically heterogeneous sample: local haplotype reconstruction
     and read error correction  
-    *Proceedings of the 13_th_ Annual International Conference on Research in Computational
+    *Proceedings of the 13 _th_ Annual International Conference on Research in Computational
     Molecular Biology RECOMB 2009 LNCS* vol. 5541 pp. 345-358 (2009)
 
 Book chapters
@@ -180,13 +180,13 @@ Talks
 -----
 
 - Basel Postdoc Network retreat 2012, August 15th, Leysin, Switzerland  
-- SIB Scientific days 2011, January 31_st_, Biel/Bienne, Switzerland
+- SIB Scientific days 2011, January 31 _st_, Biel/Bienne, Switzerland
 - Advances in Statistical Modeling of High Dimensional Data, September 27_th_, Munich, Germany
-- RECOMB 2009, May 18_th_, Tucson (Arizona), USA
-- Quasispecies: past, present and future 30_th_$ anniversary,
-  VIII Jornada de Virologia, November 17_th_, Barcelona,
+- RECOMB 2009, May 18 _th_, Tucson (Arizona), USA
+- Quasispecies: past, present and future 30 _th_ anniversary,
+  VIII Jornada de Virologia, November 17 _th_, Barcelona,
   Spain
-- Biology, Computation and Information 2008, September 9_th_$, Trieste, Italy
+- Biology, Computation and Information 2008, September 9 _th_, Trieste, Italy
 
 * * * * *
 
@@ -216,7 +216,7 @@ Grants, honors *&* awards
 -------------------------
 
 - Travel fellowship RECOMB 2009, Tucson (Arizona) USA
-- Abbott Swiss HIV Cohort Grant: 2_nd_ prize 2009 with the
+- Abbott Swiss HIV Cohort Grant: 2 _nd_ prize 2009 with the
   project “Ultra-deep sequencing of HIV: a pilot study evaluating the
   benefit for predicting therapy outcome”. The 65,000 CHF grant from SHCS
   was rewarded by Abbott Swiss with additional 15,000 CHF
@@ -228,4 +228,4 @@ Grants, honors *&* awards
 
 * * * * *
 
-Last updated: April 25_th_, 2013
+Last updated: April 25, 2013
