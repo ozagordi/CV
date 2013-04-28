@@ -85,8 +85,9 @@ Publications
 1. Kamila Caraballo Cortés, **Osvaldo Zagordi**, Tomasz Laskus, Rafal
    Ploski, Iwona Bukowska-Osko, Agnieszka Pawelczyk, Hanna Berak and Marek
    Radkowski  
-    Ultra-deep sequencing of HVR1 HCV  
-    *in press*
+    Ultradeep Pyrosequencing of Hepatitis C Virus Hypervariable Region 1 in Quasispecies Analysis  
+    *BioMed Research International* vol. 2013, Article ID 626083 [doi:10.1155/2013/626083](http://dx.doi.org/10.1155/2013/626083)
+    (2013)
 
 2. **Osvaldo Zagordi**, Martin Däumer, Christian Beisel, Niko Beerenwinkel  
    Read length versus Depth of Coverage for Viral Quasispecies Reconstruction  
