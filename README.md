@@ -27,11 +27,12 @@ Appointments held
 
 Research
 --------
+| from |   to    |                                               |
+|------|---------|-----------------------------------------------|
+| 2011 | present | University of Zurich, scientific collaborator |
+| 2008 | 2011    | ETH Zurich, post-doc                          |
+| 2007 | 2007    | Abdus Salam International Centre for Theoretical Physics (ICTP), visiting scientist | 
 
-- University of Zurich, scientific collaborator
-- ETH Zurich, post-doc
-- Abdus Salam International Centre for Theoretical Physics (ICTP),
-visiting scientist
 
 Teaching
 --------
@@ -67,13 +68,13 @@ Germany
 Education
 ---------
 
-#### PhD in Statistical and Biological Physics
+#### 2007, PhD in Statistical and Biological Physics
 Advisors: Prof. Riccardo Zecchina, Dr. Michele Leone  
 Dissertation: Statistical Physics Methods in Computational Biology  
 Statistical and Biological Physics Sector
 International School of Advanced Studies (SISSA-ISAS), Trieste - Italy
 
-#### MSc in Physics, 110/110 *cum laude*
+#### 2002, MSc in Physics, 110/110 *cum laude*
 Advisor: Prof. Luca Peliti  
 Dissertation: Stochastic models for spontaneous mutations in DNA  
 Università degli Studi di Napoli Federico II, Napoli - Italy
@@ -228,4 +229,4 @@ Grants, honors *&* awards
 
 * * * * *
 
-Last updated: April 25, 2013
+Last updated: April 28, 2013
