@@ -36,19 +36,15 @@ Research
 
 Teaching
 --------
-
-- ETH Zurich, Tutorials in Systems Biology for the Biotechnology Master
-program
-- ETH Zurich, Tutorials in Evolutionary Dynamics for the Computational
-biology and Bioinformatics Master program
-- ICTP, Trieste (Abdus Salam International Centre for Theoretical
-Physics), Tutorials in Statistical Mechanics for the Diploma course in
-Condensed Matter Physics
-- IPSIA Galvani, Trieste (Professional school), Substitute Physics Teacher
+|   date    |   Institute   | course |
+|-----------|---------------|--------|
+| 2010-2011 | ETH Zurich    | Tutorials in Systems Biology for the Biotechnology Master program | 
+| 2008-2009 | ETH Zurich    | Tutorials in Evolutionary Dynamics for the Computational biology and Bioinformatics Master program
+| 2007-2008 | ICTP, Trieste | Tutorials in Statistical Mechanics for the Diploma course in Condensed Matter Physics |
+| 2006-2007 | IPSIA Galvani, Trieste | Substitute Physics Teacher
 
 Students advised
 ----------------
-
 - Rounak Vyas, Phylogenetic analysis of HIV in single host.
 Master thesis, Computational biology and Bioinformatics Master program,
 ETH Zurich
@@ -101,7 +97,7 @@ Publications
     Prabhakaran, Volker Roth, Eran Halperin, Niko Beerenwinkel  
     Probabilistic Inference of Viral Quasispecies Subject to Recombination
     *Journal of Computational Biology* [doi:10.1089/cmb.2012.0232](http://dx.doi.org/10.1089/cmb.2012.0232)
-20(2): 113-123 (2012)  
+    20(2): 113-123 (2012)  
     also in: *Proceedings of the 16 _th_ Annual International
     Conference on Research in Computational Molecular Biology RECOMB 2012
     Lecture Notes in Computer Science* vol. 7262 pp. 342-354 (2012)
@@ -109,7 +105,7 @@ Publications
 4. Niko Beerenwinkel, **Osvaldo Zagordi**  
     Ultra-deep sequencing for the analysis of viral populations  
     *Current Opinion in Virology* [doi:10.1016/j.coviro.2011.07.008](http://dx.doi.org/10.1016/j.coviro.2011.07.008)
-1(5), 413-418 (2011)
+    1(5), 413-418 (2011)
 
 5. **Osvaldo Zagordi**, Arnab Bhattacharya, Nicholas Eriksson, Niko
     Beerenwinkel  
