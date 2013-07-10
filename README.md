@@ -82,6 +82,14 @@ Publications
 
 ### Journal articles
 
+1. Rafael A Medina, Silke Stertz, Balaji Manicassamy, Petra Zimmermann, Xiangjie Sun,
+  Randy A Albrecht, Hanni Uusi-Kerttula, **Osvaldo Zagordi**, Robert B Belshe, Sharon E Frey,
+  Terrence M Tumpey, Adolfo García-Sastre  
+  Glycosylations in the Globular Head of the Hemagglutinin Protein Modulate the Virulence and
+  Antigenic Properties of the H1N1 Influenza Viruses  
+  *Sci. Transl. Med.* 5(187): 187ra70 [doi:10.1126/scitranslmed.3005996](http://dx.doi.org/10.1126/scitranslmed.3005996)
+  (2013)
+
 1. Kamila Caraballo Cortés, **Osvaldo Zagordi**, Tomasz Laskus, Rafal
    Ploski, Iwona Bukowska-Osko, Agnieszka Pawelczyk, Hanna Berak and Marek
    Radkowski  
