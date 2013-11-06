@@ -9,15 +9,23 @@ GitHub: [github.com/ozagordi](https://github.com/ozagordi)
 Google Scholar:
 [profile](http://scholar.google.com/citations?user=vmLs7E8AAAAJ)
 
-### Areas of competence
-**biostatistics — bioinformatics — data analysis — big data — Bayesian —
-effective presentations — communication skills**
+| Areas of competence |
+|:--------------:|
+| **biostatistics — bioinformatics — data analysis — big data — Bayesian — effective presentations — communication skills** |
+  
+<br/>  
 
-### Technical skills
-**Python — R — Linux/Unix — C/C++ — scripting — data visualisation**
+| Technical skills |
+|:--------------:|
+| **Python — R — Linux/Unix — C/C++ — scripting — data visualisation**  |
 
-### Languages
-Italian (maternal language), English, French, German (basic)
+<br/> 
+
+| Languages |
+|:--------------:|
+| **Italian (maternal language) - English - French - German (basic)** |
+
+<br/>
 
 #### My story
 I consider myself a *multicultural* and *multi language* data scientist
