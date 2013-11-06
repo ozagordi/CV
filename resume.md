@@ -41,7 +41,7 @@ job (like data management in clinical research and finance).
 Positions
 ---------
 
-### 2011 - present: scientific collaborator at University of Zurich, [Institute of Medical Virology](http://www.imv.uzh.ch)
+#### 2011 - present: scientific collaborator at University of Zurich, [Institute of Medical Virology](http://www.imv.uzh.ch)
 
 -   member of the unit for Development and special diagnostics
 
@@ -53,7 +53,7 @@ Positions
 -   configuration and maintenance of the computational infrastructure to
     analyse and backup the NGS clinical data
 
-### 2008 - 2011: post-doc at ETH Zurich, [DBSSE](http://www.bsse.ethz.ch)
+#### 2008 - 2011: post-doc at ETH Zurich, [DBSSE](http://www.bsse.ethz.ch)
 
 -   member of the Computational Biology group headed by Niko
     Beerenwinkel
@@ -74,14 +74,14 @@ Positions
 Education
 ---------
 
-### 2007: PhD in statistical and biological physics, [SISSA/ISAS](http://www.sissa.it), Trieste, Italy
+#### 2007: PhD in statistical and biological physics, [SISSA/ISAS](http://www.sissa.it), Trieste, Italy
 
 -   Dissertation: Statistical physics methods in computational biology
 
 -   member of the Editorial board of the institute house organ [Sissa
     News](http://www.sissa.it/sissanews/)
 
-### 2002: MSc (*laurea*) in Physics (*summa cum laude*), [Università Federico II](http://www.unina.it), Napoli, Italy
+#### 2002: MSc (*laurea*) in Physics (*summa cum laude*), [Università Federico II](http://www.unina.it), Napoli, Italy
 
 -   Dissertation: Stochastic models for spontaneous mutations in DNA
 
