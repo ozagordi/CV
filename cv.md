@@ -82,6 +82,20 @@ Publications
 
 ### Journal articles
 
+1. Sandhya Prabhakaran, Melanie Rey, **Osvaldo Zagordi**, Niko Beerenwinkel, and Volker Roth  
+   HIV Haplotype Inference using a propagating Dirichlet Process Mixture Model  
+   _Transactions on Computational Biology and Bioinformatics_, in press
+
+2. Francesca Di Giallonardo, **Osvaldo Zagordi**, Yannick Duport, Christine Leemann, Beda Joos, Marzanna Kunzli-Gontarczyk,
+   Remy Bruggmann, Niko Beerenwinkel, Huldrych F Gunthard, Karin J Metzner  
+   Next-Generation Sequencing of HIV-1 RNA Genomes: Determination of Error Rates and Minimizing Artificial Recombination  
+   _PloS ONE_ 8 (9), e74249 [doi:10.1371/journal.pone.0074249](http://dx.doi.org/10.1371/journal.pone.0074249) (2013)
+
+3. Kerensa McElroy, **Osvaldo Zagordi**, Rowena Bull, Fabio Luciani, Niko Beerenwinkel  
+   Accurate single nucleotide variant detection in viral populations by combining probabilistic clustering with a
+   statistical test of strand bias  
+   _BMC Genomics_ 14 (1), 501 [doi:10.1186/1471-2164-14-501](http://dx.doi.org/10.1186/1471-2164-14-501) (2013)
+
 1. Rafael A Medina, Silke Stertz, Balaji Manicassamy, Petra Zimmermann, Xiangjie Sun,
   Randy A Albrecht, Hanni Uusi-Kerttula, **Osvaldo Zagordi**, Robert B Belshe, Sharon E Frey,
   Terrence M Tumpey, Adolfo García-Sastre  
