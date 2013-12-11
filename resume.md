@@ -73,8 +73,7 @@ Education
 -   member of the Editorial board of the institute house organ [Sissa
     News](http://www.sissa.it/sissanews/)
 
-### 2002: MSc (*laurea*) in Physics (*summa cum laude*), [Università Federico
-II](http://www.unina.it), Napoli, Italy
+### 2002: MSc (*laurea*) in Physics (*summa cum laude*), [Università Federico II](http://www.unina.it), Napoli, Italy
 
 -   Dissertation: Stochastic models for spontaneous mutations in DNA
 
