@@ -27,50 +27,66 @@ Appointments held
 
 Research
 --------
-| from |   to    |                                               |
-|------|---------|-----------------------------------------------|
-| 2011 | present | University of Zurich, scientific collaborator |
-| 2008 | 2011    | ETH Zurich, post-doc                          |
-| 2007 | 2007    | Abdus Salam International Centre for Theoretical Physics (ICTP), visiting scientist | 
 
+- University of Zurich, scientific collaborator
+- ETH Zurich, post-doc
+- Abdus Salam International Centre for Theoretical Physics (ICTP),
+visiting scientist
 
 Teaching
 --------
-|   date    |   Institute   | course |
-|-----------|---------------|--------|
-| 2010-2011 | ETH Zurich    | Tutorials in Systems Biology for the Biotechnology Master program | 
-| 2008-2009 | ETH Zurich    | Tutorials in Evolutionary Dynamics for the Computational biology and Bioinformatics Master program
-| 2007-2008 | ICTP, Trieste | Tutorials in Statistical Mechanics for the Diploma course in Condensed Matter Physics |
-| 2006-2007 | IPSIA Galvani, Trieste | Substitute Physics Teacher
+
+- ETH Zurich, Tutorials in Systems Biology for the Biotechnology Master
+program
+- ETH Zurich, Tutorials in Evolutionary Dynamics for the Computational
+biology and Bioinformatics Master program
+- ICTP, Trieste (Abdus Salam International Centre for Theoretical
+Physics), Tutorials in Statistical Mechanics for the Diploma course in
+Condensed Matter Physics
+- IPSIA Galvani, Trieste (Professional school), Substitute Physics Teacher
 
 Students advised
 ----------------
-- Rounak Vyas, Phylogenetic analysis of HIV in single host.
+
+Rounak Vyas, [Phylogenetic analysis of HIV samples from a single host](http://dx.doi.org/10.3929/ethz-a-006936751)  
 Master thesis, Computational biology and Bioinformatics Master program,
-ETH Zurich
-- Hoda Sharifian, Errors induced during PCR ampliﬁcation.
+ETH Zurich  
+currently PhD student at University of Zurich  
+
+Hoda Sharifian, [Errors induced during PCR ampliﬁcation](http://dx.doi.org/10.3929/ethz-a-006088024)  
 Master thesis, Computational biology and Bioinformatics Master program,
-ETH Zurich
-- Arnab Bhattacharya, Performance optimizations and improved sampling
-techniques for Dirichlet Process Mixture models.
-Bachelor thesis, Birla Institute, Pilani, India
-- Cem Sievers, Analysis of Polycomb Response Elements identiﬁed by PRC1
-ChIP-Seq Experiments.
-Diploma thesis, Biotechnology, Technische Universität Braunschweig,
-Germany
+ETH Zurich  
+currently PhD student at ETH Zurich
+
+Arnab Bhattacharya, [Performance optimizations and improved sampling
+techniques for Dirichlet Process Mixture
+models](https://wiki-bsse.ethz.ch/download/attachments/43942837/ArnabThesis.pdf)  
+Bachelor thesis, Birla Institute, Pilani, India  
+Master of Arts (A.M.), Statistics, Harvard University, currently
+Consultant at A.T. Kearney
+
+Cem Sievers, Analysis of Polycomb Response Elements identiﬁed by PRC1
+ChIP-Seq Experiments  
+Diploma thesis, Biotechnology program, Technische Universität
+Braunschweig, Germany  
+PhD, ETH Zurich, currently postdoc at Harvard University and Brown
+Institute
+
+Lukas Geyrhofer, summer internship, first release of the program
+[ShoRAH](https://github.com/ozagordi/shorah)
 
 * * * * *
 
 Education
 ---------
 
-#### 2007, PhD in Statistical and Biological Physics
+#### PhD in Statistical and Biological Physics
 Advisors: Prof. Riccardo Zecchina, Dr. Michele Leone  
 Dissertation: Statistical Physics Methods in Computational Biology  
 Statistical and Biological Physics Sector
 International School of Advanced Studies (SISSA-ISAS), Trieste - Italy
 
-#### 2002, MSc in Physics, 110/110 *cum laude*
+#### MSc in Physics, 110/110 *cum laude*
 Advisor: Prof. Luca Peliti  
 Dissertation: Stochastic models for spontaneous mutations in DNA  
 Università degli Studi di Napoli Federico II, Napoli - Italy
@@ -82,56 +98,64 @@ Publications
 
 ### Journal articles
 
-1. Sandhya Prabhakaran, Melanie Rey, **Osvaldo Zagordi**, Niko Beerenwinkel, and Volker Roth  
+
+1. Sandhya Prabhakaran, Mélanie Rey, **Osvaldo Zagordi**, Niko Beerenwinkel,
+   Volker Roth  
    HIV Haplotype Inference using a propagating Dirichlet Process Mixture Model  
-   _Transactions on Computational Biology and Bioinformatics_, in press
-
-2. Francesca Di Giallonardo, **Osvaldo Zagordi**, Yannick Duport, Christine Leemann, Beda Joos, Marzanna Kunzli-Gontarczyk,
-   Remy Bruggmann, Niko Beerenwinkel, Huldrych F Gunthard, Karin J Metzner  
-   Next-Generation Sequencing of HIV-1 RNA Genomes: Determination of Error Rates and Minimizing Artificial Recombination  
-   _PloS ONE_ 8 (9), e74249 [doi:10.1371/journal.pone.0074249](http://dx.doi.org/10.1371/journal.pone.0074249) (2013)
-
-3. Kerensa McElroy, **Osvaldo Zagordi**, Rowena Bull, Fabio Luciani, Niko Beerenwinkel  
-   Accurate single nucleotide variant detection in viral populations by combining probabilistic clustering with a
-   statistical test of strand bias  
-   _BMC Genomics_ 14 (1), 501 [doi:10.1186/1471-2164-14-501](http://dx.doi.org/10.1186/1471-2164-14-501) (2013)
-
-1. Rafael A Medina, Silke Stertz, Balaji Manicassamy, Petra Zimmermann, Xiangjie Sun,
-  Randy A Albrecht, Hanni Uusi-Kerttula, **Osvaldo Zagordi**, Robert B Belshe, Sharon E Frey,
-  Terrence M Tumpey, Adolfo García-Sastre  
-  Glycosylations in the Globular Head of the Hemagglutinin Protein Modulate the Virulence and
-  Antigenic Properties of the H1N1 Influenza Viruses  
-  *Sci. Transl. Med.* 5(187): 187ra70 [doi:10.1126/scitranslmed.3005996](http://dx.doi.org/10.1126/scitranslmed.3005996)
-  (2013)
+   *Transactions on Computational Biology and Bioinformatics*  
+   in press
+   
+2. Francesca Di Giallonardo^, **Osvaldo Zagordi**^, Yannick
+   Duport, Christine Leemann, Beda Joos, Marzanna Künzli-Gontarczyk, Rémy
+   Bruggmann, Niko Beerenwinkel, Huldrych F Günthard, Karin J Metzner  
+   (^: joint first authorship)  
+   Next-Generation Sequencing of HIV-1 RNA Genomes: Determination of Error
+   Rates and Minimizing Artificial Recombination  
+   *PloS ONE* 8 (9)e74249 
+   [doi:10.1371/journal.pone.0074249](http://dx.doi.org/10.1371/journal.pone.0074249)
+   
+3. Kerensa McElroy, **Osvaldo Zagordi**, Rowena Bull, Fabio Luciani, Niko
+   Beerenwinkel  
+   Accurate single nucleotide variant detection in viral populations by
+   combining probabilistic clustering with a statistical test of strand bias  
+   *BMC Genomics* 14 (1), 501
+   [doi:10.1186/1471-2164-14-501](http://dx.doi.org/10.1186/1471-2164-14-501)
+   
+4. Rafael A Medina, Silke Stertz, Balaji Manicassamy, Petra Zimmermann,
+   Xiangjie Sun, Randy A Albrecht, Hanni Uusi-Kerttula, **Osvaldo Zagordi**,
+   Robert B Belshe, Sharon E Frey, Terrence M Tumpey, Adolfo García-Sastre  
+   Glycosylations in the Globular Head of the Hemagglutinin Protein Modulate
+   the Virulence and Antigenic Properties of the H1N1 Influenza Viruses  
+   *Science Translational Medicine* 5, 187ra70
+   [doi:10.1126/scitranslmed.3005996](http://dx.doi.org/10.1126/scitranslmed.3005996)
 
 1. Kamila Caraballo Cortés, **Osvaldo Zagordi**, Tomasz Laskus, Rafal
    Ploski, Iwona Bukowska-Osko, Agnieszka Pawelczyk, Hanna Berak and Marek
    Radkowski  
-    Ultradeep Pyrosequencing of Hepatitis C Virus Hypervariable Region 1 in Quasispecies Analysis  
-    *BioMed Research International* vol. 2013, Article ID 626083 [doi:10.1155/2013/626083](http://dx.doi.org/10.1155/2013/626083)
-    (2013)
+    Ultra-deep sequencing of HVR1 HCV  
+    *in press*
 
 2. **Osvaldo Zagordi**, Martin Däumer, Christian Beisel, Niko Beerenwinkel  
    Read length versus Depth of Coverage for Viral Quasispecies Reconstruction  
    *PLoS ONE* 7(10): e47046.
-   [doi:10.1371/journal.pone.0047046](http://dx.doi.org/10.1371/journal.pone.0047046) (2012)
+    [doi:10.1371/journal.pone.0047046](http://dx.doi.org/10.1371/journal.pone.0047046) (2012)
 
 3. **Osvaldo Zagordi**, Armin Töpfer, Sandhya
-    Prabhakaran, Volker Roth, Eran Halperin, Niko Beerenwinkel  
+   Prabhakaran, Volker Roth, Eran Halperin, Niko Beerenwinkel  
     Probabilistic Inference of Viral Quasispecies Subject to Recombination
     *Journal of Computational Biology* [doi:10.1089/cmb.2012.0232](http://dx.doi.org/10.1089/cmb.2012.0232)
-    20(2): 113-123 (2012)  
-    also in: *Proceedings of the 16 _th_ Annual International
+20(2): 113-123 (2012)  
+    also in: *Proceedings of the 16_th_ Annual International
     Conference on Research in Computational Molecular Biology RECOMB 2012
     Lecture Notes in Computer Science* vol. 7262 pp. 342-354 (2012)
 
 4. Niko Beerenwinkel, **Osvaldo Zagordi**  
     Ultra-deep sequencing for the analysis of viral populations  
     *Current Opinion in Virology* [doi:10.1016/j.coviro.2011.07.008](http://dx.doi.org/10.1016/j.coviro.2011.07.008)
-    1(5), 413-418 (2011)
+1(5), 413-418 (2011)
 
 5. **Osvaldo Zagordi**, Arnab Bhattacharya, Nicholas Eriksson, Niko
-    Beerenwinkel  
+Beerenwinkel  
     ShoRAH: estimating the genetic diversity of a mixed sample from
     next-generation sequencing data  
     *BMC Bioinformatics* [12:119](http://dx.doi.org/10.1186/1471-2105-12-119) (2011),
@@ -146,17 +170,17 @@ Publications
     Deep sequencing of a genetically heterogeneous sample: local haplotype
     reconstruction and read error correction  
     *Journal of Computational Biology* [vol. 17 (3) pp. 417-28](http://dx.doi.org/10.1089/cmb.2009.0164) (2010)  
-    also in: *Proceedings of the 13 _th_ Annual International
+    also in: *Proceedings of the 13_th_ Annual International
     Conference on Research in Computational Molecular Biology RECOMB 2009
     Lecture Notes in Computer Science* vol. 5541 pp. 345-358 (2009)
 
 8. Fahad Saeed, Ashfaq Khokhar, **Osvaldo Zagordi**, Niko Beerenwinkel  
     Multiple sequence alignment system for pyrosequencing reads  
-    *Proceedings of the 1 _st_ Bioinformatics and Computational
-    Biology (BICoB 2009) conference LNBI* [vol. 5462, pp. 362-375](http://10.1007/978-3-642-00727-9) (2009)
+    *Proceedings of the 1_st_ Bioinformatics and Computational
+    Biology (BICoB 2009) conference LNBI* [vol. 5462, pp. 362-375](http://10.1007/978-3-642-00727-9), (2009)
 
 9. **Osvaldo Zagordi**, Alessandro Michelangeli  
-    1D periodic potentials with gaps vanishing at _k=0_  
+    1D periodic potentials with gaps vanishing at $k-0$  
     *Memoirs on Differential Equations and Mathematical Physics* vol. 47 pp. 133-158 (2009)
 
 10. Michele Leone, Andrea Pagnani, Giorgio Parisi, **Osvaldo Zagordi**  
@@ -184,7 +208,7 @@ Conference proceedings
 3. **Osvaldo Zagordi**, Lukas Geyrhofer, Volker Roth, Niko Beerenwinkel  
     Deep sequencing of a genetically heterogeneous sample: local haplotype reconstruction
     and read error correction  
-    *Proceedings of the 13 _th_ Annual International Conference on Research in Computational
+    *Proceedings of the 13_th_ Annual International Conference on Research in Computational
     Molecular Biology RECOMB 2009 LNCS* vol. 5541 pp. 345-358 (2009)
 
 Book chapters
@@ -200,13 +224,13 @@ Talks
 -----
 
 - Basel Postdoc Network retreat 2012, August 15th, Leysin, Switzerland  
-- SIB Scientific days 2011, January 31, Biel/Bienne, Switzerland
-- Advances in Statistical Modeling of High Dimensional Data, September 27, Munich, Germany
-- RECOMB 2009, May 18, Tucson (Arizona), USA
-- Quasispecies: past, present and future 30 _th_ anniversary,
-  VIII Jornada de Virologia, November 17, Barcelona,
+- SIB Scientific days 2011, January 31_st_, Biel/Bienne, Switzerland
+- Advances in Statistical Modeling of High Dimensional Data, September 27_th_, Munich, Germany
+- RECOMB 2009, May 18_th_, Tucson (Arizona), USA
+- Quasispecies: past, present and future 30_th_$ anniversary,
+  VIII Jornada de Virologia, November 17_th_, Barcelona,
   Spain
-- Biology, Computation and Information 2008, September 9, Trieste, Italy
+- Biology, Computation and Information 2008, September 9_th_$, Trieste, Italy
 
 * * * * *
 
@@ -236,7 +260,7 @@ Grants, honors *&* awards
 -------------------------
 
 - Travel fellowship RECOMB 2009, Tucson (Arizona) USA
-- Abbott Swiss HIV Cohort Grant: 2 _nd_ prize 2009 with the
+- Abbott Swiss HIV Cohort Grant: 2_nd_ prize 2009 with the
   project “Ultra-deep sequencing of HIV: a pilot study evaluating the
   benefit for predicting therapy outcome”. The 65,000 CHF grant from SHCS
   was rewarded by Abbott Swiss with additional 15,000 CHF
@@ -248,4 +272,4 @@ Grants, honors *&* awards
 
 * * * * *
 
-Last updated: April 28, 2013
+Last updated: Dec 11_th_, 2013
