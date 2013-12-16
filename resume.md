@@ -1,7 +1,6 @@
 ## Osvaldo Zagordi
 ## data scientist, biostatistician
 
-Nationality: Italian  
 E-Mail: [firstname.lastname@gmail.com](mailto:firstname.lastname@gmail.com)  
 LinkedIn:
 [ch.linkedin.com/in/osvaldozagordi](http://ch.linkedin.com/in/osvaldozagordi/)  
