@@ -6,4 +6,4 @@ No shine so far, but maybe with time...
 
 [Résumé](https://github.com/ozagordi/CV/blob/master/resume.md)
 
-[Full _vitae_](https://github.com/ozagordi/CV/blob/master/cv.md)
+[Full _vitae_ with list of publications](https://github.com/ozagordi/CV/blob/master/cv.md)
