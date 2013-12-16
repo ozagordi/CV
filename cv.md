@@ -1,10 +1,6 @@
 Osvaldo Zagordi
 ---------------
 
-Born: January 31, 1979 — Napoli, Italy
-
-Nationality: Italian
-
 Languages: Italian (maternal language), English, French, German (basic)
 
 ### Current position
