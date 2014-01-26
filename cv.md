@@ -256,7 +256,7 @@ Grants, honors *&* awards
 -------------------------
 
 - Travel fellowship RECOMB 2009, Tucson (Arizona) USA
-- Abbott Swiss HIV Cohort Grant: 2*nd* prize 2009 with the
+- Abbott Swiss HIV Cohort Grant: 2nd prize 2009 with the
   project “Ultra-deep sequencing of HIV: a pilot study evaluating the
   benefit for predicting therapy outcome”. The 65,000 CHF grant from SHCS
   was rewarded by Abbott Swiss with additional 15,000 CHF
@@ -268,4 +268,4 @@ Grants, honors *&* awards
 
 * * * * *
 
-Last updated: Dec 11*th*, 2013
+Last updated: Dec 11th, 2013
