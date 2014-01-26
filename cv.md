@@ -98,8 +98,8 @@ Publications
 1. Sandhya Prabhakaran, Mélanie Rey, **Osvaldo Zagordi**, Niko Beerenwinkel,
    Volker Roth  
    HIV Haplotype Inference using a propagating Dirichlet Process Mixture Model  
-   *Transactions on Computational Biology and Bioinformatics*  
-   in press
+   *Transactions on Computational Biology and Bioinformatics*, in press
+   [doi:10.1109/TCBB.2013.145](http://dx.doi.org/10.1109/TCBB.2013.145)
    
 2. Francesca Di Giallonardo^, **Osvaldo Zagordi**^, Yannick
    Duport, Christine Leemann, Beda Joos, Marzanna Künzli-Gontarczyk, Rémy
