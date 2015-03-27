@@ -244,13 +244,13 @@ Talks
 -----
 
 - Basel Postdoc Network retreat 2012, August 15th, Leysin, Switzerland  
-- SIB Scientific days 2011, January 31_st_, Biel/Bienne, Switzerland
-- Advances in Statistical Modeling of High Dimensional Data, September 27_th_, Munich, Germany
-- RECOMB 2009, May 18_th_, Tucson (Arizona), USA
-- Quasispecies: past, present and future 30_th_$ anniversary,
-  VIII Jornada de Virologia, November 17_th_, Barcelona,
+- SIB Scientific days 2011, January 31st, Biel/Bienne, Switzerland
+- Advances in Statistical Modeling of High Dimensional Data, September 27th, Munich, Germany
+- RECOMB 2009, May 18th, Tucson (Arizona), USA
+- Quasispecies: past, present and future 30th anniversary,
+  VIII Jornada de Virologia, November 17th, Barcelona,
   Spain
-- Biology, Computation and Information 2008, September 9_th_$, Trieste, Italy
+- Biology, Computation and Information 2008, September 9th, Trieste, Italy
 
 * * * * *
 
