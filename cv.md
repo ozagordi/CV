@@ -5,9 +5,9 @@ Languages: Italian (maternal language), English, French, German (basic)
 
 ### Current position
 
-Scientific collaborator
+Scientific collaborator, University of Zurich, Institute of Medical Virology
 
-University of Zurich, Institute of Medical Virology
+Co-founder and partner, enGene Statistics GmBH
 
 ### Areas of competence
 
@@ -20,6 +20,11 @@ data
 
 Appointments held
 -----------------
+
+Private
+-------
+
+- Co-founder and partner, enGene Statistics GmBH
 
 Research
 --------
@@ -93,7 +98,25 @@ Publications
 ------------
 
 ### Journal articles
+1. Merle Schanz, Thomas Liechti, Osvaldo Zagordi, Enkelejda Miho, Sai T Reddy,
+   Huldrych F Günthard, Alexandra Trkola, Michael Huber  
+   High-Throughput Sequencing of Human Immunoglobulin Variable Regions with
+   Subtype Identification  
+   *PLoS ONE* 9(11): e111726. [doi:10.1371/journal.pone.0111726](http://dx.doi.org/10.1371/journal.pone.0111726)
 
+2. Ines Kohler, Alexandra U Scherrer^, **Osvaldo Zagordi**^, Matteo Bianchi,
+   Arkadiusz Wyrzucki, Marco Steck, Bruno Ledergerber, Huldrych F Günthard, Lars Hangartner  
+   Prevalence and predictors for homo-and heterosubtypic antibodies against influenza A virus  
+   (^: joint first authorship)  
+   *Clin Infect Dis.* (2014) 59 (10): 1386-1393.
+   [doi: 10.1093/cid/ciu660](http://dx.doi.org/10.1093/cid/ciu660)
+
+3. Kamila Caraballo Cortés, **Osvaldo Zagordi**, Karol Perlejewski, Tomasz Laskus,
+   Krzysztof Maroszek, Iwona Bukowska-O, Agnieszka Pawe, Hanna Berak,
+   Andrzej Horban, Marek Radkowski  
+   Deep sequencing of hepatitis C virus hypervariable region 1 reveals no correlation between genetic heterogeneity and antiviral treatment outcome  
+   *BMC Infectious Diseases* 2014, 14:389
+   [doi:10.1186/1471-2334-14-389](http://dx.doi.org/10.1186/1471-2334-14-389)
 
 1. Sandhya Prabhakaran, Mélanie Rey, **Osvaldo Zagordi**, Niko Beerenwinkel,
    Volker Roth  
@@ -128,8 +151,9 @@ Publications
 1. Kamila Caraballo Cortés, **Osvaldo Zagordi**, Tomasz Laskus, Rafal
    Ploski, Iwona Bukowska-Osko, Agnieszka Pawelczyk, Hanna Berak and Marek
    Radkowski  
-    Ultra-deep sequencing of HVR1 HCV  
-    *in press*
+Ultradeep pyrosequencing of hepatitis C virus hypervariable region 1 in quasispecies analysis  
+    *BioMed Research International* vol. 2013, Article ID 626083, 10 pages, 2013
+    [doi:10.1155/2013/626083](http://dx.doi.org/10.1155/2013/626083)
 
 2. **Osvaldo Zagordi**, Martin Däumer, Christian Beisel, Niko Beerenwinkel  
    Read length versus Depth of Coverage for Viral Quasispecies Reconstruction  
