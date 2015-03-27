@@ -1,5 +1,5 @@
 ## Osvaldo Zagordi
-## data scientist, biostatistician
+## data scientist
 
 E-Mail: [firstname.lastname@gmail.com](mailto:firstname.lastname@gmail.com)  
 LinkedIn:
@@ -9,7 +9,7 @@ Google Scholar:
 [profile](http://scholar.google.com/citations?user=vmLs7E8AAAAJ)
 
 ### Areas of competence
-**biostatistics — bioinformatics — data analysis — big data — Bayesian —
+**data analysis — biostatistics — bioinformatics —  big data — Bayesian —
 effective presentations — communication skills**
 
 ### Technical skills
@@ -29,19 +29,38 @@ in the analysis of NGS data. I believe in continuing education and I
 like taking online classes on topics both related and unrelated to my
 job (like data management in clinical research and finance).
 
+In 2014, together with some colleagues, I funded
+[enGene Statistics](http://www.engene.ch), to provide statistical consulting
+services.
+
+
 Positions
 ---------
+
+### 2014 - present: co-founder and partner at [enGene Statistics](http://www.engene.ch)
+
+-   developed a concept for the company and wrote business plan
+
+-   contacted clients and discussed the project
+
+-   performed the analysis and developed the pipelines
+
+-   managed projects and delivered the results
+
+-   developed the web page
 
 ### 2011 - present: scientific collaborator at University of Zurich, [Institute of Medical Virology](http://www.imv.uzh.ch)
 
 -   member of the unit for Development and special diagnostics
 
--   development of pipelines to analyse NGS data for clinical research
+-   developed pipelines to analyse NGS data for clinical research
     projects
 
--   biostatistics consulting for other groups in the institute
+-   provided biostatistics consulting to other groups in the institute
 
--   configuration and maintenance of the computational infrastructure to
+-   provided data analysis consulting and training to other groups in the institute
+
+-   configured and maintaned the computational infrastructure to
     analyse and backup the NGS clinical data
 
 ### 2008 - 2011: post-doc at ETH Zurich, [DBSSE](http://www.bsse.ethz.ch)
@@ -49,18 +68,22 @@ Positions
 -   member of the Computational Biology group headed by Niko
     Beerenwinkel
 
--   main developer of the software suite
-    [ShoRAH](http://ozagordi.github.io/shorah/), one of the most popular
+-   developed the software suite
+    [ShoRAH](http://ozagordi.github.io/shorah/), one of the most popular tools
+    for the analysis of genetically heterogeneous samples 
     and considered **state of the art by scholars in the field**
 
--   interdisciplinary projects, **strong and close interaction with
-    physicians and biologists which lead to publication in biology
-    journals**
+-   participated in several interdisciplinary projects, building a **strong and
+    close interaction with physicians and biologists which lead to publication
+    in biology journals**
 
--   representative of the post-docs in a hiring committee
+-   represented the post-docs in a hiring committee
 
--   teaching assistance in several undergraduate courses and mentor of
-    several Bachelor/Master/Diploma theses.
+-   assisted teaching in several undergraduate courses, I also helped
+    designing some
+
+-   supervised several Bachelor/Master/Diploma theses.
+
 
 Education
 ---------
@@ -75,4 +98,3 @@ Education
 ### 2002: MSc (*laurea*) in Physics (*summa cum laude*), [Università Federico II](http://www.unina.it), Napoli, Italy
 
 -   Dissertation: Stochastic models for spontaneous mutations in DNA
-
