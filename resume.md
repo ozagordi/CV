@@ -56,9 +56,7 @@ Positions
 -   developed pipelines to analyse NGS data for clinical research
     projects
 
--   provided biostatistics consulting to other groups in the institute
-
--   provided data analysis consulting and training to other groups in the institute
+-   provided biostatistics and data analysis consulting/training to other groups in the institute
 
 -   configured and maintaned the computational infrastructure to
     analyse and backup the NGS clinical data
