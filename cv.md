@@ -161,40 +161,39 @@ Publications
 1. Kamila Caraballo Cortés, **Osvaldo Zagordi**, Tomasz Laskus, Rafal
    Ploski, Iwona Bukowska-Osko, Agnieszka Pawelczyk, Hanna Berak and Marek
    Radkowski  
-Ultradeep pyrosequencing of hepatitis C virus hypervariable region 1 in quasispecies analysis  
-    *BioMed Research International* vol. 2013, Article ID 626083, 10 pages, 2013
-    [doi:10.1155/2013/626083](http://dx.doi.org/10.1155/2013/626083)
+   Ultradeep pyrosequencing of hepatitis C virus hypervariable region 1 in quasispecies analysis  
+   *BioMed Research International* vol. 2013, Article ID 626083, 10 pages, 2013
+   [doi:10.1155/2013/626083](http://dx.doi.org/10.1155/2013/626083)
 
 2. **Osvaldo Zagordi**, Martin Däumer, Christian Beisel, Niko Beerenwinkel  
    Read length versus Depth of Coverage for Viral Quasispecies Reconstruction  
    *PLoS ONE* 7(10): e47046.
-    [doi:10.1371/journal.pone.0047046](http://dx.doi.org/10.1371/journal.pone.0047046) (2012)
+   [doi:10.1371/journal.pone.0047046](http://dx.doi.org/10.1371/journal.pone.0047046) (2012)
 
 3. **Osvaldo Zagordi**, Armin Töpfer, Sandhya
    Prabhakaran, Volker Roth, Eran Halperin, Niko Beerenwinkel  
-    Probabilistic Inference of Viral Quasispecies Subject to Recombination
-    *Journal of Computational Biology* [doi:10.1089/cmb.2012.0232](http://dx.doi.org/10.1089/cmb.2012.0232)
-20(2): 113-123 (2012)  
-    also in: *Proceedings of the 16_th_ Annual International
-    Conference on Research in Computational Molecular Biology RECOMB 2012
-    Lecture Notes in Computer Science* vol. 7262 pp. 342-354 (2012)
+   Probabilistic Inference of Viral Quasispecies Subject to Recombination
+   *Journal of Computational Biology* [doi:10.1089/cmb.2012.0232](http://dx.doi.org/10.1089/cmb.2012.0232)
+   20(2): 113-123 (2012)  
+   also in: *Proceedings of the 16_th_ Annual International
+   Conference on Research in Computational Molecular Biology RECOMB 2012
+   Lecture Notes in Computer Science* vol. 7262 pp. 342-354 (2012)
 
 4. Niko Beerenwinkel, **Osvaldo Zagordi**  
-    Ultra-deep sequencing for the analysis of viral populations  
-    *Current Opinion in Virology* [doi:10.1016/j.coviro.2011.07.008](http://dx.doi.org/10.1016/j.coviro.2011.07.008)
-1(5), 413-418 (2011)
+   Ultra-deep sequencing for the analysis of viral populations  
+   *Current Opinion in Virology* [doi:10.1016/j.coviro.2011.07.008](http://dx.doi.org/10.1016/j.coviro.2011.07.008)
+   1(5), 413-418 (2011)
 
-5. **Osvaldo Zagordi**, Arnab Bhattacharya, Nicholas Eriksson, Niko
-Beerenwinkel  
-    ShoRAH: estimating the genetic diversity of a mixed sample from
-    next-generation sequencing data  
-    *BMC Bioinformatics* [12:119](http://dx.doi.org/10.1186/1471-2105-12-119) (2011),
-    **Highly accessed**
+5. **Osvaldo Zagordi**, Arnab Bhattacharya, Nicholas Eriksson, Niko Beerenwinkel  
+   ShoRAH: estimating the genetic diversity of a mixed sample from
+   next-generation sequencing data  
+   *BMC Bioinformatics* [12:119](http://dx.doi.org/10.1186/1471-2105-12-119) (2011),
+   **Highly accessed**
 
 6. **Osvaldo Zagordi**, Rolf Klein, Martin Däumer, Niko Beerenwinkel  
-    Error correction of next-generation sequencing data and reliable
-    estimation of HIV quasispecies  
-    *Nucleic Acids Research*, [vol. 38 pp. 7400-7409](http://dx.doi.org/10.1093/nar/gkq655) (2010)
+   Error correction of next-generation sequencing data and reliable
+   estimation of HIV quasispecies  
+   *Nucleic Acids Research*, [vol. 38 pp. 7400-7409](http://dx.doi.org/10.1093/nar/gkq655) (2010)
 
 7. **Osvaldo Zagordi**, Lukas Geyrhofer, Volker Roth, Niko Beerenwinkel  
     Deep sequencing of a genetically heterogeneous sample: local haplotype
