@@ -98,20 +98,29 @@ Publications
 ------------
 
 ### Journal articles
-1. Merle Schanz, Thomas Liechti, Osvaldo Zagordi, Enkelejda Miho, Sai T Reddy,
+
+1. Dagmara W Lewandowska, Osvaldo Zagordi, Andrea Zbinden, Macé M Schuurmans,
+   Peter Schreiber, Fabienne-Desirée Geissberger, Jon B Huder, Jürg Böni,
+   Christian Benden, Nicolas J Mueller, Alexandra Trkola, Michael Huber  
+   Unbiased metagenomic sequencing complements specific routine diagnostic
+   methods and increases chances to detect rare viral strains  
+   *Diagnostic microbiology and infectious disease* (2015) 83(2): 133-138.
+   [doi: 10.1016/j.diagmicrobio.2015.06.017](http://dx.doi.org/10.1016/j.diagmicrobio.2015.06.017)
+
+2. Merle Schanz, Thomas Liechti, Osvaldo Zagordi, Enkelejda Miho, Sai T Reddy,
    Huldrych F Günthard, Alexandra Trkola, Michael Huber  
    High-Throughput Sequencing of Human Immunoglobulin Variable Regions with
    Subtype Identification  
    *PLoS ONE* 9(11): e111726. [doi:10.1371/journal.pone.0111726](http://dx.doi.org/10.1371/journal.pone.0111726)
 
-2. Ines Kohler, Alexandra U Scherrer^, **Osvaldo Zagordi**^, Matteo Bianchi,
+3. Ines Kohler, Alexandra U Scherrer^, **Osvaldo Zagordi**^, Matteo Bianchi,
    Arkadiusz Wyrzucki, Marco Steck, Bruno Ledergerber, Huldrych F Günthard, Lars Hangartner  
    Prevalence and predictors for homo-and heterosubtypic antibodies against influenza A virus  
    (^: joint first authorship)  
    *Clin Infect Dis.* (2014) 59 (10): 1386-1393.
    [doi: 10.1093/cid/ciu660](http://dx.doi.org/10.1093/cid/ciu660)
 
-3. Kamila Caraballo Cortés, **Osvaldo Zagordi**, Karol Perlejewski, Tomasz Laskus,
+4. Kamila Caraballo Cortés, **Osvaldo Zagordi**, Karol Perlejewski, Tomasz Laskus,
    Krzysztof Maroszek, Iwona Bukowska-O, Agnieszka Pawe, Hanna Berak,
    Andrzej Horban, Marek Radkowski  
    Deep sequencing of hepatitis C virus hypervariable region 1 reveals no correlation between genetic heterogeneity and antiviral treatment outcome  
@@ -123,23 +132,23 @@ Publications
    HIV Haplotype Inference using a propagating Dirichlet Process Mixture Model  
    *Transactions on Computational Biology and Bioinformatics*, in press
    [doi:10.1109/TCBB.2013.145](http://dx.doi.org/10.1109/TCBB.2013.145)
-   
+
 2. Francesca Di Giallonardo^, **Osvaldo Zagordi**^, Yannick
    Duport, Christine Leemann, Beda Joos, Marzanna Künzli-Gontarczyk, Rémy
    Bruggmann, Niko Beerenwinkel, Huldrych F Günthard, Karin J Metzner  
    (^: joint first authorship)  
    Next-Generation Sequencing of HIV-1 RNA Genomes: Determination of Error
    Rates and Minimizing Artificial Recombination  
-   *PloS ONE* 8 (9)e74249 
+   *PloS ONE* 8 (9)e74249
    [doi:10.1371/journal.pone.0074249](http://dx.doi.org/10.1371/journal.pone.0074249)
-   
+
 3. Kerensa McElroy, **Osvaldo Zagordi**, Rowena Bull, Fabio Luciani, Niko
    Beerenwinkel  
    Accurate single nucleotide variant detection in viral populations by
    combining probabilistic clustering with a statistical test of strand bias  
    *BMC Genomics* 14 (1), 501
    [doi:10.1186/1471-2164-14-501](http://dx.doi.org/10.1186/1471-2164-14-501)
-   
+
 4. Rafael A Medina, Silke Stertz, Balaji Manicassamy, Petra Zimmermann,
    Xiangjie Sun, Randy A Albrecht, Hanni Uusi-Kerttula, **Osvaldo Zagordi**,
    Robert B Belshe, Sharon E Frey, Terrence M Tumpey, Adolfo García-Sastre  
@@ -215,6 +224,15 @@ Beerenwinkel
 
 Conference proceedings
 ----------------------
+
+1. DW Lewandowska, B Ruehe, P Schreiber, **O Zagordi**, F-D Geissberger, M Schurmans,
+   A Zbinden, J Böni, C Benden, NJ Müller, A Trkola, M Huber  
+   Resolution of undefined aetiology of respiratory infections in lung transplant
+   patients with unbiased metagenomic sequencing  
+   **Journal of Clinical Virology** (2015) 70 S14, Abstracts of the 18th Annual
+   Meeting of European Society for Clinical Virology, 9th–12th September 2015, Edinburgh
+   [doi: 10.1016/j.jcv.2015.07.040](http://dx.doi.org/10.1016/j.jcv.2015.07.040)
+
 
 1. **Osvaldo Zagordi**, Armin Töpfer, Sandhya Prabhakaran, Volker Roth, Eran Halperin, Niko
     Beerenwinkel  
