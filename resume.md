@@ -15,7 +15,7 @@ effective presentations — communication skills**
 ### Technical skills
 **Python — R — Linux/Unix — C/C++ — scripting — data visualisation**
 
-#### Examples of past data analytic projects (active links in the electronic version of the résumé)
+#### Examples of past data analytic projects
 
 -   [ShoRAH](https://github.com/ozagordi/shorah), a software implementing a Dirichlet
     process mixture model (a Bayesian nonparametric model for unsupervised learning).
