@@ -99,15 +99,16 @@ Publications
 
 ### Journal articles
 
-1. Dagmara W Lewandowska, Osvaldo Zagordi, Andrea Zbinden, Macé M Schuurmans,
-   Peter Schreiber, Fabienne-Desirée Geissberger, Jon B Huder, Jürg Böni,
+1. Dagmara W Lewandowska, **Osvaldo Zagordi**^, Andrea Zbinden^, Macé M Schuurmans^,
+   Peter Schreiber^, Fabienne-Desirée Geissberger, Jon B Huder, Jürg Böni,
    Christian Benden, Nicolas J Mueller, Alexandra Trkola, Michael Huber  
    Unbiased metagenomic sequencing complements specific routine diagnostic
    methods and increases chances to detect rare viral strains  
+   (^: joint first authorship)  
    *Diagnostic microbiology and infectious disease* (2015) 83(2): 133-138.
    [doi: 10.1016/j.diagmicrobio.2015.06.017](http://dx.doi.org/10.1016/j.diagmicrobio.2015.06.017)
 
-2. Merle Schanz, Thomas Liechti, Osvaldo Zagordi, Enkelejda Miho, Sai T Reddy,
+2. Merle Schanz, Thomas Liechti, **Osvaldo Zagordi**, Enkelejda Miho, Sai T Reddy,
    Huldrych F Günthard, Alexandra Trkola, Michael Huber  
    High-Throughput Sequencing of Human Immunoglobulin Variable Regions with
    Subtype Identification  
