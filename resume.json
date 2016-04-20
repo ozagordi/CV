@@ -1,0 +1,158 @@
+{
+    "basics": {
+        "name": "Osvaldo Zagordi",
+        "label": "Data scientist",
+        "picture": "https://media.licdn.com/media/AAEAAQAAAAAAAAQVAAAAJDdjMGRiYTYyLTgwMTctNDE5Yy1hOTY1LTQ3ZmI5OGMzMmFmZA.jpg",
+        "email": "osvaldo.zagordi@gmail.com",
+        "phone": "(+41) 77 4438 435",
+        "website": "",
+        "summary": "I am a data scientist and statistician with a ten year experience in interdisciplinary projects and a feeling for communicating with people whose background is different from mine. I developed a [leading software](http://ozagordi.github.io/shorah/) (over 100 academic citations) in the analysis of NGS data and worked at pipelines facilitating the introduction of new technologies into routine diagnostic practice. In 2014, together with some colleagues, I founded [enGene Statistics](http://www.engene.ch), a fully owned company that allows us to provide statistical consulting services in bioinformatics outside of our institutional research projects. Our clients include research groups at University of Zurich and University of Basel.",
+        "location": {
+            "address": "Universitätstrasse 43",
+            "postalCode": "8006",
+            "city": "Zurich",
+            "countryCode": "CH",
+            "country": "Switzerland"
+        },
+        "profiles": [
+            {
+                "network": "LinkedIn",
+                "username": "",
+                "url": "https://ch.linkedin.com/in/osvaldozagordi"
+            },
+            {
+                "network": "GitHub",
+                "username": "ozagordi",
+                "url": "https://github.com/ozagordi"
+            },
+            {
+                "network": "Google Scholar",
+                "username": "",
+                "url": "http://goo.gl/cIchzT"
+            }
+        ]
+    },
+    "interests": [
+        {
+            "name": "data science",
+            "keywords": [
+                "machine learning",
+                "data visualisation",
+                "effective communication"
+            ]
+        },
+        {
+            "name": "statistics",
+            "keywords": [
+                "Bayesian statistics"
+            ]
+        }
+    ],
+    "work": [
+        {
+            "company": "Institute of Medical Virology, University of Zurich",
+            "position": "Scientific associate",
+            "website": "http://www.imv.uzh.ch",
+            "startDate": "2011-11-01",
+            "summary": "Member of the unit for Development and special diagnostics",
+            "highlights": [
+                "Developed, tested and maintained pipelines to analyse NGS data (tens of gigabytes per experiment) for clinical research projects; I configured and maintained the computational infrastructure for analysis and backup",
+                "Co-authored several scientific papers",
+                "Assisted other groups in the institute in statistics, data analysis and data visualizations"
+            ]
+        },
+        {
+            "company": "enGene Statistics",
+            "position": "Co-founder and partner",
+            "website": "http://engene.ch",
+            "startDate": "2014-02-01",
+            "summary": "enGene Statistics is an ETH spi-off offering consulting services in statistical data analysis and modelling",
+            "highlights": [
+                "Contact with clients, analysis and development of the pipelines, project management and presentation of the results"
+            ]
+        },
+        {
+            "company": "D-BSSE, ETH Zurich",
+            "position": "postdoctoral associate",
+            "website": "http://www.bsse.ethz.ch",
+            "startDate": "2008-01-02",
+            "endDate": "2011-12-31",
+            "summary": "Member of the Computational Biology group",
+            "highlights": [
+                "Developed the software suite [ShoRAH](http://ozagordi.github.io/shorah/), one of the most popular tools and considered **state of the art** by scholars in the field",
+                "Data scientist in several interdisciplinary projects, I built a **strong and close interaction with partners from other departments**",
+                "Representative of scientific staff in a committee hiring a full professor",
+                "Teaching assistant in several undergraduate courses",
+                "Supervised several Bachelor/Master/Diploma theses: [list of students](https://github.com/ozagordi/CV/blob/master/cv.md#students-advised)"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "institution": "International School of Advanced Studies SISSA/ISAS, Trieste",
+            "area": "Statistical and Biological Physics",
+            "studyType": "PhD",
+            "startDate": "2003-10-01",
+            "endDate": "2007-07-01"
+        },
+        {
+            "institution": "Università degli Studi di Napoli Federico II",
+            "area": "Physics",
+            "studyType": "MSc (laurea)",
+            "grade": "summa cum laude",
+            "startDate": "1997-10-01",
+            "endDate": "2002-10-30"
+        }
+    ],
+    "awards": [
+        {
+            "title": "Erasmus Scholarship",
+            "date": "2000-05-01",
+            "summary": "Scholarship to study one semester in France"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Python",
+            "keywords": [
+                "pandas",
+                "Numpy"
+            ]
+        },
+        {
+            "name": "R",
+            "keywords": [
+                "dplyr",
+                "tidyr",
+                "ggplot2"
+            ]
+        },
+        {
+            "name": "Hadoop",
+            "level": "basic"
+        },
+        {
+            "name": "Spark",
+            "level": "basic"
+        }
+    ],
+    "languages": [
+        {
+            "language": "Italian",
+            "fluency": "Native speaker"
+        },
+        {
+            "language": "English",
+            "fluency": "Full professional proficiency"
+        },
+        {
+            "language": "French",
+            "fluency": "Independent user"
+        },
+        {
+            "language": "German",
+            "fluency": "Basic user"
+        }
+
+    ]
+}
