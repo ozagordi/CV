@@ -52,12 +52,10 @@ Students advised
 Rounak Vyas, [Phylogenetic analysis of HIV samples from a single host](http://dx.doi.org/10.3929/ethz-a-006936751)  
 Master thesis, Computational biology and Bioinformatics Master program,
 ETH Zurich  
-currently PhD student at University of Zurich  
 
 Hoda Sharifian, [Errors induced during PCR ampliﬁcation](http://dx.doi.org/10.3929/ethz-a-006088024)  
 Master thesis, Computational biology and Bioinformatics Master program,
 ETH Zurich  
-currently PhD student at ETH Zurich
 
 Arnab Bhattacharya, [Performance optimizations and improved sampling
 techniques for Dirichlet Process Mixture
@@ -70,8 +68,7 @@ Cem Sievers, Analysis of Polycomb Response Elements identiﬁed by PRC1
 ChIP-Seq Experiments  
 Diploma thesis, Biotechnology program, Technische Universität
 Braunschweig, Germany  
-PhD, ETH Zurich, currently postdoc at Harvard University and Brown
-Institute
+PhD, ETH Zurich
 
 Lukas Geyrhofer, summer internship, first release of the program
 [ShoRAH](https://github.com/ozagordi/shorah)
